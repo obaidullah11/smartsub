@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/smartsub/static/css/main.a39da9fb.css",
-    "main.js": "/smartsub/static/js/main.cc267530.js",
+    "main.js": "/smartsub/static/js/main.5ec4b414.js",
     "static/js/787.3c5cdac0.chunk.js": "/smartsub/static/js/787.3c5cdac0.chunk.js",
     "static/media/Futura Heavy font.ttf": "/smartsub/static/media/Futura Heavy font.af72c25a6945b0f48abb.ttf",
     "static/media/futura medium bt.ttf": "/smartsub/static/media/futura medium bt.4e762c29ef7b44ca51cb.ttf",
@@ -13,11 +13,11 @@
     "static/media/dark_mode_icon.svg": "/smartsub/static/media/dark_mode_icon.d5509552e05d1439ee82.svg",
     "static/media/tick_icon.svg": "/smartsub/static/media/tick_icon.f68f183681460eef72f9.svg",
     "main.a39da9fb.css.map": "/smartsub/static/css/main.a39da9fb.css.map",
-    "main.cc267530.js.map": "/smartsub/static/js/main.cc267530.js.map",
+    "main.5ec4b414.js.map": "/smartsub/static/js/main.5ec4b414.js.map",
     "787.3c5cdac0.chunk.js.map": "/smartsub/static/js/787.3c5cdac0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a39da9fb.css",
-    "static/js/main.cc267530.js"
+    "static/js/main.5ec4b414.js"
   ]
 }
