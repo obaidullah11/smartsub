@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/smartsub/static/css/main.f8666a6b.css",
-    "main.js": "/smartsub/static/js/main.1d555582.js",
+    "main.css": "/smartsub/static/css/main.40a16410.css",
+    "main.js": "/smartsub/static/js/main.748cceaf.js",
     "static/js/787.3c5cdac0.chunk.js": "/smartsub/static/js/787.3c5cdac0.chunk.js",
     "static/media/Futura Heavy font.ttf": "/smartsub/static/media/Futura Heavy font.af72c25a6945b0f48abb.ttf",
     "static/media/futura medium bt.ttf": "/smartsub/static/media/futura medium bt.4e762c29ef7b44ca51cb.ttf",
@@ -12,12 +12,12 @@
     "index.html": "/smartsub/index.html",
     "static/media/dark_mode_icon.svg": "/smartsub/static/media/dark_mode_icon.d5509552e05d1439ee82.svg",
     "static/media/tick_icon.svg": "/smartsub/static/media/tick_icon.f68f183681460eef72f9.svg",
-    "main.f8666a6b.css.map": "/smartsub/static/css/main.f8666a6b.css.map",
-    "main.1d555582.js.map": "/smartsub/static/js/main.1d555582.js.map",
+    "main.40a16410.css.map": "/smartsub/static/css/main.40a16410.css.map",
+    "main.748cceaf.js.map": "/smartsub/static/js/main.748cceaf.js.map",
     "787.3c5cdac0.chunk.js.map": "/smartsub/static/js/787.3c5cdac0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f8666a6b.css",
-    "static/js/main.1d555582.js"
+    "static/css/main.40a16410.css",
+    "static/js/main.748cceaf.js"
   ]
 }
